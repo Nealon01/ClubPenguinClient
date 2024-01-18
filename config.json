@@ -1,8 +1,8 @@
 {
-	"mainURL": "https://play.vyrek.dev/es/",
-	"repositoryName": "SecretAgencyClubPenguin/ClubPenguinClient",
+	"mainURL": "https://penguin.nealon.us",
+	"repositoryName": "Nealon01/ClubPenguinClient",
 	"discordRpc": {
-		"enable": true,
+		"enable": false,
 		"discordAppId": "995035289263292426",
 		"activityTitle": "Secret Agency Club Penguin",
 		"activityDescription": "Jugando club penguin!",
