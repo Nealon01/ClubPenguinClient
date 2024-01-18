@@ -1,6 +1,6 @@
 # THIS PROJECT IS ON EOL, NO MORE SUPPORT, FORKS ARE WELCOMED BUT NO PULL REQUEST WILL BE ACCEPTED
 
-# ClubPenguinClient
+# ClubPenguinClient 
 
 This club penguin client is a "flash port" for people like me that want a private server
 
